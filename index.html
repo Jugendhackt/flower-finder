@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Blumenfinder | FindYourFlower</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link href="map.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body background="Flowers.jpg">
+    <section>
+      
+    </section>
+    <button type="button" onclick="show_flower_on_map('rose')"><img src="img/rose.png" alt="rose"class="flower-button"/></button>
+    <button type="button" onclick="show_flower_on_map('tulip')"><img src="img/tulip.png" alt="tulip" class="flower-button"></button>
+    <button type="button" onclick="show_flower_on_map('poppy')"><img src="img/poppy.png" alt="poppy" class="flower-button"></button>
+    <button type="button" onclick="show_flower_on_map('allium')"><img src="img/allium.png" alt="allium" class="flower-button"></button>
+    
+
+    <section>
+      <div id="map">
+    </div>
+
+    </section>
+    <script src="script.js"></script>
+    <script src="data.js"></script>
+   <script type="text/javascript" src="https://www.openlayers.org/api/OpenLayers.js"></script>
+    <script type="text/javascript" src="https://www.openstreetmap.org/openlayers/OpenStreetMap.js"></script>
+    <script src="tom.js"></script>
+  
+  </body>
+</html>
