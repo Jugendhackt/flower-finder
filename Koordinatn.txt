@@ -1,0 +1,42 @@
+Hans-Thoma-Straße 1, 69121 Heidelberg
+Blumen Küchner
+Breite: 49.4282849
+Länge: 8.681747
+
+Marktstraße 51, 69123 Heidelberg
+Blumenhaus Rosenbach
+Breite: 49.3975503
+Länge: 8.6487721
+
+Dreikönigstraße 24, 69117 Heidelberg
+Die Blumenfrau
+Breite: 49.4121043
+Länge: 8.7078963
+
+Brückenstraße 39, 69120 Heidelberg, Deutschland
+Blumenhuber
+Breite: 49.4159939
+Länge: 8.6918837
+
+St.-Anna-Gasse 3, 69117 Heidelberg
+Blume sucht Vase
+Breite: 49.4095259
+Länge: 8.6941982
+
+Bergheimer Str. 42, 69115 Heidelberg
+Blumenecke Binzer
+b: 49.4084991
+l: 8.6879693
+
+Rohrbacher Str. 134, 69126 Heidelberg
+Blumen Kamm Gmbh
+b: 49.3929814
+l: 8.6897595
+
+
+
+
+
+
+
+
